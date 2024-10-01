@@ -3,6 +3,8 @@
 This is a simple REST API for a hotel booking system. 
 It is implemented using Javalin and JPA
 
+![Hotel](./docs/bates_hotel.jpg)
+
 ### How to run
 
 1. Create a database in your local Postgres instance called `hotel`
